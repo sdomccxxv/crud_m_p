@@ -1,0 +1,8 @@
+﻿  CRUDC++.cpp
+D:\OneDrive - Universidad Mariano Gálvez\U\3er Semestre\1. Progra I\10042021\CRUDC++\CRUDC++.cpp(233,10): warning C4101: 'idmarca': variable local sin referencia
+  Generando código
+  2 of 148 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  CRUDC++.vcxproj -> D:\OneDrive - Universidad Mariano Gálvez\U\3er Semestre\1. Progra I\10042021\CRUDC++\x64\Release\CRUDC++.exe

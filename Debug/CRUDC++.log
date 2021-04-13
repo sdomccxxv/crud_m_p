@@ -1,0 +1,6 @@
+﻿  CRUDC++.cpp
+D:\OneDrive - Universidad Mariano Gálvez\U\3er Semestre\1. Progra I\10042021\CRUDC++\CRUDC++.cpp(21,11): warning C4101: 'costo': variable local sin referencia
+D:\OneDrive - Universidad Mariano Gálvez\U\3er Semestre\1. Progra I\10042021\CRUDC++\CRUDC++.cpp(20,18): warning C4101: 'existencia': variable local sin referencia
+D:\OneDrive - Universidad Mariano Gálvez\U\3er Semestre\1. Progra I\10042021\CRUDC++\CRUDC++.cpp(21,18): warning C4101: 'venta': variable local sin referencia
+D:\OneDrive - Universidad Mariano Gálvez\U\3er Semestre\1. Progra I\10042021\CRUDC++\CRUDC++.cpp(20,9): warning C4101: 'idmarca': variable local sin referencia
+  CRUDC++.vcxproj -> D:\OneDrive - Universidad Mariano Gálvez\U\3er Semestre\1. Progra I\10042021\CRUDC++\Debug\CRUDC++.exe
